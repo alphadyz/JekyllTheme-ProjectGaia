@@ -48,10 +48,3 @@ Auto-run when page loaded.
 ### md-post-header-collapse
 
 Realized with this repo: [    szhielelp/md-post-header-collapse  ](https://github.com/szhielelp/md-post-header-collapse)
-
-Run **headerCollapsible()** after post loaded.
-
-    headerCollapsible();
-
-You can try clicking on the icons near titles.
-
